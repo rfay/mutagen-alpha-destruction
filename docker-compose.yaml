@@ -1,4 +1,0 @@
-services:
-  tester99:
-    image: busybox
-    command: tail -f /dev/null
